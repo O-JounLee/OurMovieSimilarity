@@ -11,7 +11,7 @@ The OMS was built based on Java Web Application and Model-View-Controller model 
 
 * Luong Vuong Nguyen, Minsung Hong, Jason J. Jung, and Bongsoo Sohn. Cognitive Similarity-Based Collaborative Filtering Recommendation System. Applied Sciences-Basel. https://doi.org/10.3390/app10124183
 
-* Luong Vuong Nguyen, Tri-Hai Nguyen, and Jason J. Jung. Content-Based Collaborative Filtering using Word Embedding: A Case Study on Movie Recommendation. In Proceedings of ACM SIGAPP 11st International Conference on Research in Adaptive and Convergent Systems (RACS 2020), pp. 101–106, ACM, Gwangju, Seoul, South Korea, October 13-16, 2020. https://doi.org/10.1145/3400286.3418253
+* Luong Vuong Nguyen, Tri-Hai Nguyen, and Jason J. Jung. Content-Based Collaborative Filtering using Word Embedding: A Case Study on Movie Recommendation. In Proceedings of ACM SIGAPP 11th International Conference on Research in Adaptive and Convergent Systems (RACS 2020), pp. 101–106, ACM, Gwangju, Seoul, South Korea, October 13-16, 2020. https://doi.org/10.1145/3400286.3418253
 
 * Luong Vuong Nguyen, Tri-Hai Nguyen, and Jason J. Jung. Extending Collaborative Filtering Recommendation Using Word Embedding: A Hybrid Approach. Concurrency and Computation: Practice and Experience. https://doi.org/10.1002/cpe.6232 
 
